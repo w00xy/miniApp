@@ -1,0 +1,17 @@
+aiosqlite==0.20.0
+annotated-types==0.7.0
+blinker==1.9.0
+click==8.1.8
+Flask==3.1.0
+greenlet==3.1.1
+h11==0.14.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+pydantic==2.10.5
+pydantic_core==2.27.2
+python-dotenv==1.0.1
+SQLAlchemy==2.0.37
+typing_extensions==4.12.2
+uvicorn==0.34.0
+Werkzeug==3.1.3

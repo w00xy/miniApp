@@ -1,0 +1,439 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ParamSpec",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "BigInteger",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncAttrs",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigDict",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "db_query",
+        "description": "db_query",
+        "isExtraImport": true,
+        "detail": "db_query",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "class Settings:\n    sql = os.getenv(\"SQL\")",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSchema",
+        "kind": 6,
+        "importPath": "backend.db_query",
+        "description": "backend.db_query",
+        "peekOfCode": "class TaskSchema(BaseModel):\n    id: int\n    title: str\n    description: str\n    completed: bool\n    user: int\n    model_config=ConfigDict(from_attributes=True)\n@using_session\nasync def add_user(username: str, tg_id: int, session: AsyncSession):\n    user = await session.scalar(select(User).where(User.username == username))",
+        "detail": "backend.db_query",
+        "documentation": {}
+    },
+    {
+        "label": "using_session",
+        "kind": 2,
+        "importPath": "backend.db_query",
+        "description": "backend.db_query",
+        "peekOfCode": "def using_session(func: Callable[P, R]) -> Callable[P, R]:\n    @wraps(func)\n    async def wrapper(*args: P.args, **kwargs: P.kwargs) -> R:\n        async with async_session() as session:\n            kwargs[\"session\"] = session # Передаем сессию как именованный аргумент\n            return await func(*args, **kwargs)\n    return wrapper\nclass TaskSchema(BaseModel):\n    id: int\n    title: str",
+        "detail": "backend.db_query",
+        "documentation": {}
+    },
+    {
+        "label": "P",
+        "kind": 5,
+        "importPath": "backend.db_query",
+        "description": "backend.db_query",
+        "peekOfCode": "P = ParamSpec(\"P\")\nR = TypeVar(\"R\")\ndef using_session(func: Callable[P, R]) -> Callable[P, R]:\n    @wraps(func)\n    async def wrapper(*args: P.args, **kwargs: P.kwargs) -> R:\n        async with async_session() as session:\n            kwargs[\"session\"] = session # Передаем сессию как именованный аргумент\n            return await func(*args, **kwargs)\n    return wrapper\nclass TaskSchema(BaseModel):",
+        "detail": "backend.db_query",
+        "documentation": {}
+    },
+    {
+        "label": "R",
+        "kind": 5,
+        "importPath": "backend.db_query",
+        "description": "backend.db_query",
+        "peekOfCode": "R = TypeVar(\"R\")\ndef using_session(func: Callable[P, R]) -> Callable[P, R]:\n    @wraps(func)\n    async def wrapper(*args: P.args, **kwargs: P.kwargs) -> R:\n        async with async_session() as session:\n            kwargs[\"session\"] = session # Передаем сессию как именованный аргумент\n            return await func(*args, **kwargs)\n    return wrapper\nclass TaskSchema(BaseModel):\n    id: int",
+        "detail": "backend.db_query",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n@app.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"], \n)\n@app.get(\"api/tasks/tg_id\")\nasync def tasks(username: str, tg_id: int):",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class Base(AsyncAttrs, DeclarativeBase):\n    pass\nclass User(Base):\n    __tablename__ = 'users'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    username: Mapped[str] = mapped_column(String(255), default=None)\n    tg_id: Mapped[int] = mapped_column(BigInteger, unique=True)\nclass Task(Base):\n    __tablename__ = 'tasks'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    username: Mapped[str] = mapped_column(String(255), default=None)\n    tg_id: Mapped[int] = mapped_column(BigInteger, unique=True)\nclass Task(Base):\n    __tablename__ = 'tasks'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    title: Mapped[str] = mapped_column(String(255), default=None)\n    description: Mapped[str] = mapped_column(String(255), default=None)",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class Task(Base):\n    __tablename__ = 'tasks'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    title: Mapped[str] = mapped_column(String(255), default=None)\n    description: Mapped[str] = mapped_column(String(255), default=None)\n    completed: Mapped[bool] = mapped_column(default=False)\n    user: Mapped[int] = mapped_column(ForeignKey('users.id',  **{\"ondelete\": \"CASCADE\"}))\nasync def init_db():\n    async with engine.begin() as conn:\n        await conn.run_sync(Base.metadata.create_all)",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "engine = create_async_engine(Settings.sql, echo=True)\nasync_session = async_sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nclass Base(AsyncAttrs, DeclarativeBase):\n    pass\nclass User(Base):\n    __tablename__ = 'users'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    username: Mapped[str] = mapped_column(String(255), default=None)\n    tg_id: Mapped[int] = mapped_column(BigInteger, unique=True)\nclass Task(Base):",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "async_session = async_sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nclass Base(AsyncAttrs, DeclarativeBase):\n    pass\nclass User(Base):\n    __tablename__ = 'users'\n    id: Mapped[int] = mapped_column(Integer, autoincrement=\"auto\", primary_key=True)\n    username: Mapped[str] = mapped_column(String(255), default=None)\n    tg_id: Mapped[int] = mapped_column(BigInteger, unique=True)\nclass Task(Base):\n    __tablename__ = 'tasks'",
+        "detail": "backend.models",
+        "documentation": {}
+    }
+]
